@@ -1,0 +1,10 @@
+<settings>
+    <!-- absolute path to folder with Recon files-->
+    <path-recon>D:\PYTHON COURSE\ReconDrive\recon</path-recon>
+    <!-- absolute path to One Drive folder-->
+    <path-one-drive>D:\PYTHON COURSE\ReconDrive\onedrive</path-one-drive>
+    <!-- monitoring interval -->
+    <interval>10</interval>
+    <!-- Choose number of months for auto removing files-->
+    <auto-remove-term>2</auto-remove-term>
+</settings>
